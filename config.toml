@@ -1,0 +1,4 @@
+baseURL = 'https://justfigueroa.com/'
+languageCode = 'en-us'
+title = 'justfigueroa.com'
+theme = 'terminal'
